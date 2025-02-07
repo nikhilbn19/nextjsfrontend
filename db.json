@@ -1,0 +1,116 @@
+{
+    "daily_stats": [
+      {
+        "id": "1",
+        "date": "2024-02-09",
+        "daily_sales": 2000,
+        "table_occupancy": 25,
+        "created_at": "2024-02-09T00:00:00Z"
+      }
+    ],
+    "menu_items": [
+      {
+        "id": "1",
+        "name": "Chicken Parmesan",
+        "description": "Classic Italian dish with breaded chicken",
+        "price": 55.00,
+        "stock": 20,
+        "image_url": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?auto=format&fit=crop&q=80&w=200&h=200",
+        "created_at": "2024-02-09T00:00:00Z",
+        "is_available": true,
+        "serving_size": "Serving: (5 person)"
+      },
+
+      {
+        "id": "1",
+        "name": "Chicken Parmesan",
+        "description": "Classic Italian dish with breaded chicken",
+        "price": 55.00,
+        "stock": 20,
+        "image_url": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?auto=format&fit=crop&q=80&w=200&h=200",
+        "created_at": "2024-02-09T00:00:00Z",
+        "is_available": true,
+        "serving_size": "Serving: (5 person)"
+      },
+
+      {
+        "id": "1",
+        "name": "Chicken Parmesan",
+        "description": "Classic Italian dish with breaded chicken",
+        "price": 55.00,
+        "stock": 20,
+        "image_url": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?auto=format&fit=crop&q=80&w=200&h=200",
+        "created_at": "2024-02-09T00:00:00Z",
+        "is_available": false,
+        "serving_size": "Serving: (5 person)"
+      },
+
+      {
+        "id": "1",
+        "name": "Chicken Parmesan",
+        "description": "Classic Italian dish with breaded chicken",
+        "price": 55.00,
+        "stock": 20,
+        "image_url": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?auto=format&fit=crop&q=80&w=200&h=200",
+        "created_at": "2024-02-09T00:00:00Z",
+        "is_available": true,
+        "serving_size": "Serving: (5 person)"
+      },
+
+      {
+        "id": "1",
+        "name": "Chicken Parmesan",
+        "description": "Classic Italian dish with breaded chicken",
+        "price": 55.00,
+        "stock": 20,
+        "image_url": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?auto=format&fit=crop&q=80&w=200&h=200",
+        "created_at": "2024-02-09T00:00:00Z",
+        "is_available": true,
+        "serving_size": "Serving: (5 person)"
+      },
+
+      {
+        "id": "1",
+        "name": "Chicken Parmesan",
+        "description": "Classic Italian dish with breaded chicken",
+        "price": 55.00,
+        "stock": 20,
+        "image_url": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?auto=format&fit=crop&q=80&w=200&h=200",
+        "created_at": "2024-02-09T00:00:00Z",
+        "is_available": false,
+        "serving_size": "Serving: (5 person)"
+      }
+      
+    
+      
+
+    ],
+    "monthly_revenue": [
+      {
+        "month": "JAN",
+        "sales": 2000,
+        "revenue": 3000
+      },
+      {
+        "month": "FEB",
+        "sales": 2500,
+        "revenue": 3500
+      },
+      {
+        "month": "MAR",
+        "sales": 2500,
+        "revenue": 2800
+      },
+      {
+        "month": "APR",
+        "sales": 2500,
+        "revenue": 3500
+      },
+      {
+        "month": "MAY",
+        "sales": 2500,
+        "revenue": 3500
+      }
+
+    ]
+  }
